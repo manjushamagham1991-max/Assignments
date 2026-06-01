@@ -1,0 +1,26 @@
+1.Check whether a person is eligible to vote or not.
+2.Find the largest among three numbers.
+3.Write a program to check whether a year is a leap year.
+4.Create a simple calculator using if-else conditions.
+5.Print the multiplication table of a given number. 
+(eg:5*1=5
+    5*2=10 and so on till 10)
+6.Print all prime numbers between 1 and 100.
+7.Write a program to find the factorial of a number.
+8.Reverse a given number using loops.
+9.Print the following pattern
+*
+**
+***
+****
+*****
+10. Print the following pattern
+    *
+   ***
+  *****
+ *******
+
+
+
+
+

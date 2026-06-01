@@ -1,0 +1,54 @@
+Q1. Create variables and store:
+
+Your Name
+Age
+Height
+Is_Student (True/False)
+
+Print all variables with their data types.
+
+Q2. Take two numbers and perform:
+
+Addition
+Subtraction
+Multiplication
+Division
+Modulus
+
+Q3. Convert:
+
+Integer → Float
+Float → Integer
+Integer → String
+
+Print before and after conversion.
+
+Q4. Create a list of 5 fruits:
+
+Print first item
+Print last item
+Add one fruit
+Remove one fruit
+Reverse list
+
+Q5. Given marks=[70,80,90,60,100]
+Find:
+
+Maximum
+Minimum
+Average
+
+Q6. Remove duplicates:
+x = [1,2,2,3,4,4,5]
+
+Q7. Create a tuple with name,age and course
+
+Q8. Convert tuple to list and add one element.
+
+Q9. Create dictionary of a student with name, age, marks, Qualification, Year of Passout
+Print all keys and values.
+
+Q10. For the dict in Q9, add new key called City and update marks for 2nd element.
+
+
+
