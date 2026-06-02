@@ -1,0 +1,33 @@
+1. Load the dataset.	
+2. Display first 10 records.	
+3. Check shape.	
+4. Check data types.	
+5. Check missing values.	
+6. Generate summary statistics.	
+7. Find average MPG.	
+8. Find maximum and minimum horsepower.	
+9. Find average weight.	
+10. Histogram of MPG.	
+11. Histogram of Horsepower.	
+12. Boxplot of MPG.	
+13. Boxplot of Weight.	
+14. Countplot of Cylinders.	
+15. Calculate correlation matrix.	
+16. Draw heatmap.	
+17. Which feature is most positively correlated with MPG?	
+18. Which feature is most negatively correlated with MPG?	
+19. Scatter plot:	
+Weight vs MPG	
+20. Scatter plot:	
+Horsepower vs MPG	
+21. Scatter plot:	
+Displacement vs MPG	
+22. Detect outliers in Horsepower.	
+23. Detect outliers in Weight.	
+24. Detect outliers in MPG using IQR.	
+25. Which cars appear most fuel efficient?	
+26. Does higher weight reduce MPG?	
+27. Does horsepower impact MPG?	
+28. Write 5 insights from the dataset.	
+
+********For every visualization created, write at least 2–3 insights based on your observations. Do not just display the plot. Explain what the plot reveals about the data.*********
