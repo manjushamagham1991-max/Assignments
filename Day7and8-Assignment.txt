@@ -1,0 +1,42 @@
+####################### DAY7 ####################################
+1.Create the Employees table.
+2.Add a new column JoiningDate.
+3.Rename column City to Location.
+4.Delete the JoiningDate column.
+5.Update John's salary to 65000.
+6.Delete employee with EmpID = 105.
+7.Display employees from IT department.
+8.Display employees from Bangalore and salary > 50000.
+9.Display employees ordered by salary ascending.
+10.Find total salary by department.
+11.Find average salary by department.
+12.Count employees in each department.
+13.Show departments having more than 2 employees.
+14.Show departments whose average salary is greater than 60000.
+15.Display top 3 highest-paid employees.
+16.Display first 2 employees from the table.
+17.Find 2nd highest salary.
+
+################################################################
+################################################################
+
+
+
+####################### DAY8 ####################################
+
+1.Display employee name with department name.
+2.Show all employees and their departments using LEFT JOIN.
+3.Show departments with no employees.
+4.Find employees working in IT department.
+5.Find employees earning more than average salary.
+6.Find second highest salary using subquery.
+7.Create a CTE to display employees earning above 60000.
+8.Using CTE, calculate average salary by department.
+9.Assign row numbers to employees based on salary.
+10.Rank employees by salary.
+11.Find dense rank of employees.
+12.Find top 2 employees from each department.
+13.Find department-wise highest-paid employee.
+14.Find department-wise second highest-paid employee.
+
+#########################END####################################
