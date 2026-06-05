@@ -1,0 +1,28 @@
+1.What is Supervised Learning?
+2.What is Unsupervised Learning?
+3.Give 3 examples of Supervised Learning problems.
+4.Give 3 examples of Unsupervised Learning problems.
+5.Explain Regression with an example.
+6.Explain Classification with an example.
+7.Why is Data Preprocessing important before training a model?
+8.What is Train-Test Split?
+9.Why should we not train and test on the same data?
+10.What is Overfitting?
+11.What is Underfitting?
+12.What is the difference between Overfitting and Underfitting?
+13.What is Variance?
+14.What is Standard Deviation?
+15.How do Outliers affect Mean and Standard Deviation?
+16.What is a Normal Distribution?
+17.Why is Normal Distribution important in Statistics and Machine Learning?
+18.What is Correlation?
+19.What is the difference between Positive Correlation and Negative Correlation?
+20.What is the difference between Covariance and Correlation?
+21.What is a Correlation Matrix, and why is it used?
+22.What is Multicollinearity?
+23.Why is Multicollinearity a problem in Linear Regression?
+24.What is Feature Engineering?
+25.What is Feature Selection, and why is it important?
+26.How would you identify important features in a dataset?
+27.What problems can arise when a dataset contains too many features?
+28.What is the Curse of Dimensionality?
